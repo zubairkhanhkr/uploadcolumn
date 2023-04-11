@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Auto-format by https://ultralytics.com/actions
