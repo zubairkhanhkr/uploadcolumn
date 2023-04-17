@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Fix IS_PYTHON_3_12 bug (#9258)
