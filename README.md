@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
