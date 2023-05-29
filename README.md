@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
