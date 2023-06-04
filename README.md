@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add docs guide terminal images (#8819)
