@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+New HUB Cloud Training docs page (#8174)
