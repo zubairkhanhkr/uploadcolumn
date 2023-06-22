@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+fix for KeyError: 'epoch' (#48)
