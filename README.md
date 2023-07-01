@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
