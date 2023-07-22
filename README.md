@@ -1,1 +1,1 @@
-added badges (#45)
+Batch inference fixes (#8854)
