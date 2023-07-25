@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add Neural Magic Docs integrations page (#7234)
