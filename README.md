@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add distance calculation feature in vision-eye (#8616)
