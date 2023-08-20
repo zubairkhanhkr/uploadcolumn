@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
