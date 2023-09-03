@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
