@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
