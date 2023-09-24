@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+YOLOv8 INT8 TFLite Inference Example (#7317)
