@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
