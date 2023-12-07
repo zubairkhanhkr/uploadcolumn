@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
