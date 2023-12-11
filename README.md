@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+New test for labels and crops (#8861)
