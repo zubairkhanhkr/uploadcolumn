@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add visuals in guides/distance-calculation.md (#7876)
