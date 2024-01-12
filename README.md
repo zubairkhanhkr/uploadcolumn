@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Link checks SSL insecure robustness (#7853)
