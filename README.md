@@ -1,1 +1,1 @@
-add yolov10
+Add docs guide terminal images (#8819)
