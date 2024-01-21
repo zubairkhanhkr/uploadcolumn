@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
