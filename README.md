@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
