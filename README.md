@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
