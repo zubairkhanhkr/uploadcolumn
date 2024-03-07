@@ -1,1 +1,1 @@
-fix predict with class filter
+Compare plt.get_backend() in lowercase (#8409)
