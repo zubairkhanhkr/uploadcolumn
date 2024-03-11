@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
