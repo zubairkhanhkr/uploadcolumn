@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
