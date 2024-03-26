@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
