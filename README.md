@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
