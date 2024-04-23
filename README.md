@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
