@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Fix TypeError in check_cfg() (#9245)
