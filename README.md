@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Update Discord and Contributing Guide URLs (#9270)
