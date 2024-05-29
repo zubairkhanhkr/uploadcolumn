@@ -1,1 +1,1 @@
-fix resume training
+YAML reformat (#7669)
