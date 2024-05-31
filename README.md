@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update mkdocs.yml (#7693)
