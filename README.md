@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
