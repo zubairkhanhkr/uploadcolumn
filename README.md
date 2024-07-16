@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
