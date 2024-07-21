@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
