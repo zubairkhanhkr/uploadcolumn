@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
