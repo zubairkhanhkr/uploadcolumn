@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Clean up unused imgsz (#7771)
