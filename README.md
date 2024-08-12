@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+fix for predicting with batch_size > 1 (#47)
