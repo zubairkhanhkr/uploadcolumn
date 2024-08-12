@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Auto-format by https://ultralytics.com/actions
