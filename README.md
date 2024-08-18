@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+OBB: Fix plot_images (#7592)
