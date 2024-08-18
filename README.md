@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
