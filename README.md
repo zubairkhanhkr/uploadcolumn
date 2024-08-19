@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
