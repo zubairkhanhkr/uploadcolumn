@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
