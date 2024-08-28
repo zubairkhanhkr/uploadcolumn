@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Avoid creating -hub dir without processing images (#8334)
