@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
