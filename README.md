@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Avoid creating -hub dir without processing images (#8334)
