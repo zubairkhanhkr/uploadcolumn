@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Expand Model method type hinting (#8279)
