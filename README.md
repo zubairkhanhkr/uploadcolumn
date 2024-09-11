@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
