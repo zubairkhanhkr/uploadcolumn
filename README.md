@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update Dockerfile for Raspberry Pi Support (#8123)
