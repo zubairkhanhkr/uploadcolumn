@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add Weights & Biases Docs integrations page (#7199)
