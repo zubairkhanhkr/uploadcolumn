@@ -1,1 +1,1 @@
-update
+fix predict with class filter
