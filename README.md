@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
