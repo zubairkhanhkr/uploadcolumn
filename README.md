@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Compare plt.get_backend() in lowercase (#8409)
