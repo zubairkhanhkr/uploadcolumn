@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
